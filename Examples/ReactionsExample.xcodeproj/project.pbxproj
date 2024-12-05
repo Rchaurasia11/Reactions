@@ -841,6 +841,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.yannickloriot.ReactionsExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
+				VALID_ARCHS = "arm64, arm64e, x86_64";
 			};
 			name = Debug;
 		};
@@ -856,6 +857,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.yannickloriot.ReactionsExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
+				VALID_ARCHS = "arm64, arm64e, x86_64";
 			};
 			name = Release;
 		};
